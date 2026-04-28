@@ -1,6 +1,6 @@
 {
   "name": "videojs-record-change-image-input",
-  "version": "4.8.1",
+  "version": "4.8.2",
   "description": "A fork of videojs-record to allow input change on image only mode",
   "author": "Collab",
   "license": "MIT",
