@@ -4,6 +4,10 @@ A [video.js](https://www.videojs.com/) plugin for recording audio/video/image fi
 
 ![Screenshot](https://raw.githubusercontent.com/collab-project/videojs-record/master/docs/img/screenshot.png?raw=true "Screenshot")
 
+## Fork
+
+This fork is purely to implement the following PR: https://github.com/collab-project/videojs-record/pull/620
+
 ## Documentation
 
 The documentation and examples can be found on: https://collab-project.github.io/videojs-record
