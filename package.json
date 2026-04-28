@@ -1,7 +1,7 @@
 {
-  "name": "videojs-record",
-  "version": "4.8.0",
-  "description": "A video.js plugin for recording audio/video/image files.",
+  "name": "videojs-record-change-image-input",
+  "version": "4.8.1",
+  "description": "A fork of videojs-record to allow input change on image only mode",
   "author": "Collab",
   "license": "MIT",
   "readmeFilename": "README.md",
